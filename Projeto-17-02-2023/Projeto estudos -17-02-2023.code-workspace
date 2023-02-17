@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
-		"workbench.colorCustomizations": {}
+		"workbench.colorCustomizations": {},
+		"cSpell.words": [
+			"inicio"
+		]
 	}
 }
